@@ -1,11 +1,15 @@
-<head> 
-
-</head>
-
 body {
-background-color: grey;
-color: white;
+    background-color: lightblue;
 }
 
-<h1>This is my heading</h1>
-</body>
+h1 {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+p {
+    color: rgb(198, 70, 5);
+    font-family: verdana;
+    font-size: 20px;
+}
